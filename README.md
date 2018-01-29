@@ -1,2 +1,2 @@
 # TiaoTiao
-Test GitHub
+微信跳一跳辅助程序，基于Python开发，包括手动模式，半自动模式，全自动模式。
